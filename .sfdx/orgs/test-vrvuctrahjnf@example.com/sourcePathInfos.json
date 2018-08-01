@@ -2,14 +2,14 @@
     [
         "C:\\tstCmpStars\\tstScoreStars\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533147918283,
             "changeTime": 1533147936070,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\tstCmpStars\\tstScoreStars\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533147918283,
             "changeTime": 1533147918283,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533147918286,
             "changeTime": 1533147918286,
             "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533147918286,
             "changeTime": 1533147918286,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,16 +62,224 @@
     [
         "C:\\tstCmpStars\\tstScoreStars",
         {
-            "state": "n",
             "sourcePath": "C:\\tstCmpStars\\tstScoreStars",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1533148220086,
             "changeTime": 1533148220086,
             "contentHash": "0134c1f110e139ef6f7e5adc3a041af08ce134a1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533148711948,
+            "changeTime": 1533148712030,
+            "contentHash": "cc60de49e79308532476cf879e504ba75300a871"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533148711957,
+            "changeTime": 1533148712043,
+            "contentHash": "890ccef74fa3d4960a0033d623b3ff0b5e0852db"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533148711927,
+            "changeTime": 1533148711927,
+            "contentHash": "3a77a1d44b7a528887fe6fc7f945db90db157c9f"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_Cls.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_Cls.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 677,
+            "modifiedTime": 1532728798466,
+            "changeTime": 1532728798466,
+            "contentHash": "d7eea0ddccd43dba3bb9d0dbc6a8f1d481abef04"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_Cls.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_Cls.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1524689783240,
+            "changeTime": 1524689783240,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_tst.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_tst.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1232,
+            "modifiedTime": 1532728798467,
+            "changeTime": 1532728798467,
+            "contentHash": "3463a00ecede70d0d4bab91b9a6140d915fac174"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_tst.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\classes\\GBL_ScoreStars_tst.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524757949365,
+            "changeTime": 1524757949365,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\globalValueSets\\GLB_ls_Score.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\globalValueSets\\GLB_ls_Score.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1054,
+            "modifiedTime": 1532728798470,
+            "changeTime": 1532728798470,
+            "contentHash": "6b2b76bbf7b09a030ed6236b6f511a4517d950bb"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 216,
+            "modifiedTime": 1532728798450,
+            "changeTime": 1532728798450,
+            "contentHash": "d7a521571163cb6583d53f2fdfee9a5c6d5ad315"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1235,
+            "modifiedTime": 1532728798452,
+            "changeTime": 1532728798452,
+            "contentHash": "c0a96048369156ae7c9668eb3e9812312fd1db47"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1524692004698,
+            "changeTime": 1524692004698,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 409,
+            "modifiedTime": 1532728798455,
+            "changeTime": 1532728798455,
+            "contentHash": "7c9f21b946ce4990c52ec4a3f6cd3f883d21aa93"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_Cmp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 695,
+            "modifiedTime": 1532728798457,
+            "changeTime": 1532728798457,
+            "contentHash": "7e90dfdd3540fc78f05f5d9bb310c4c7bf852396"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 816,
+            "modifiedTime": 1532728798459,
+            "changeTime": 1532728798459,
+            "contentHash": "dcee139c11e455d82485996d46a2468123aced73"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7896,
+            "modifiedTime": 1532728798461,
+            "changeTime": 1532728798461,
+            "contentHash": "edcf0f5a953139dc23b4cb333bc8534c279acd77"
+        }
+    ],
+    [
+        "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\tstCmpStars\\tstScoreStars\\force-app\\main\\default\\aura\\GBL_ScoreStars_Cmp\\GBL_ScoreStars_CmpRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 147,
+            "modifiedTime": 1532728798463,
+            "changeTime": 1532728798463,
+            "contentHash": "f5ecce7b4b53c29bbf2dfe71519c7984fcf5a1f4"
         }
     ]
 ]
