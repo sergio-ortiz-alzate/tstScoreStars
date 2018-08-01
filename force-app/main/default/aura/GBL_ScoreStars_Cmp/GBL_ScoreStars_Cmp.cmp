@@ -1,0 +1,18 @@
+<aura:component controller="GBL_ScoreStars_Cls" implements="flexipage:availableForAllPageTypes,force:hasRecordId,force:hasSObjectName" access="global">
+    <aura:attribute name="recordId" type="Id" default="{!v.recordId}" description="Id of record" />
+    <aura:attribute name="apiName" type="String" default="{!v.sObjectName}" description="Apiname of sObject"/>
+    <aura:attribute name="score" type="String" description="ApiName field to score" />
+    <aura:attribute name="scoreInt" type="Integer" default="0" description="value field to score"/>
+    <aura:attribute name="description" type="String" description="ApiName field to description" />
+    <aura:attribute name="starsNumber" type="String" default="5" description="Stars number"/>
+
+    <div class="slds-box slds-theme_default">
+        <div class="slds-box slds-theme_default" >
+            <span aura:id="container" onclick="{!c.starsClick}" ></span>
+        </div>
+        <br/>
+        <lightning:textarea aura:id="description_id" label="Description" maxlength="255" />
+        <br/>
+        <lightning:button aura:id="btn_save" variant="brand" label="Rate" iconName="utility:save" iconPosition="left" onclick="{!c.save}" />
+    </div>
+</aura:component>

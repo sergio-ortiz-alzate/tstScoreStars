@@ -1,0 +1,5 @@
+<aura:documentation>
+    <aura:description>
+        <p>An <code>c:GBL_ScoreStars_Cmp</code> component is a set of stars that can use in any lightning record page.</p>
+    </aura:description>
+</aura:documentation>

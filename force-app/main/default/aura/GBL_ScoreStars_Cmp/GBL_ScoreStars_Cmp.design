@@ -1,0 +1,5 @@
+<design:component label="Score Stars">
+    <design:attribute name="starsNumber" label="Number of stars" description="Stars" datasource="3,4,5" default="5" />
+    <design:attribute name="score" required="true" label="Score" description="ApiName field to score" />
+    <design:attribute name="description" required="true" label="Description" description="ApiName field to description" />
+</design:component>
